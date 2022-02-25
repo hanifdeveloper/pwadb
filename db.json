@@ -1,81 +1,85 @@
-[{
-  "id": 1,
-  "name": "Tayra",
-  "category": "Yellow"
-}, {
-  "id": 2,
-  "name": "Flamingo, greater",
-  "category": "Green"
-}, {
-  "id": 3,
-  "name": "Black kite",
-  "category": "Mauv"
-}, {
-  "id": 4,
-  "name": "Legaan, Monitor (unidentified)",
-  "category": "Green"
-}, {
-  "id": 5,
-  "name": "Tarantula",
-  "category": "Purple"
-}, {
-  "id": 6,
-  "name": "Lorikeet, scaly-breasted",
-  "category": "Goldenrod"
-}, {
-  "id": 7,
-  "name": "Dark-winged trumpeter",
-  "category": "Teal"
-}, {
-  "id": 8,
-  "name": "Horned lark",
-  "category": "Mauv"
-}, {
-  "id": 9,
-  "name": "Dama wallaby",
-  "category": "Teal"
-}, {
-  "id": 10,
-  "name": "Ox, musk",
-  "category": "Aquamarine"
-}, {
-  "id": 11,
-  "name": "Marabou stork",
-  "category": "Yellow"
-}, {
-  "id": 12,
-  "name": "Red-knobbed coot",
-  "category": "Puce"
-}, {
-  "id": 13,
-  "name": "Lemur, brown",
-  "category": "Fuscia"
-}, {
-  "id": 14,
-  "name": "Rock dove",
-  "category": "Maroon"
-}, {
-  "id": 15,
-  "name": "Neotropic cormorant",
-  "category": "Crimson"
-}, {
-  "id": 16,
-  "name": "Ring-tailed possum",
-  "category": "Turquoise"
-}, {
-  "id": 17,
-  "name": "Gull, swallow-tail",
-  "category": "Fuscia"
-}, {
-  "id": 18,
-  "name": "Vulture, oriental white-backed",
-  "category": "Teal"
-}, {
-  "id": 19,
-  "name": "Collared peccary",
-  "category": "Blue"
-}, {
-  "id": 20,
-  "name": "Yellow-headed caracara",
-  "category": "Yellow"
-}]
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Tayra",
+      "category": "Yellow"
+    }, {
+      "id": 2,
+      "name": "Flamingo, greater",
+      "category": "Green"
+    }, {
+      "id": 3,
+      "name": "Black kite",
+      "category": "Mauv"
+    }, {
+      "id": 4,
+      "name": "Legaan, Monitor (unidentified)",
+      "category": "Green"
+    }, {
+      "id": 5,
+      "name": "Tarantula",
+      "category": "Purple"
+    }, {
+      "id": 6,
+      "name": "Lorikeet, scaly-breasted",
+      "category": "Goldenrod"
+    }, {
+      "id": 7,
+      "name": "Dark-winged trumpeter",
+      "category": "Teal"
+    }, {
+      "id": 8,
+      "name": "Horned lark",
+      "category": "Mauv"
+    }, {
+      "id": 9,
+      "name": "Dama wallaby",
+      "category": "Teal"
+    }, {
+      "id": 10,
+      "name": "Ox, musk",
+      "category": "Aquamarine"
+    }, {
+      "id": 11,
+      "name": "Marabou stork",
+      "category": "Yellow"
+    }, {
+      "id": 12,
+      "name": "Red-knobbed coot",
+      "category": "Puce"
+    }, {
+      "id": 13,
+      "name": "Lemur, brown",
+      "category": "Fuscia"
+    }, {
+      "id": 14,
+      "name": "Rock dove",
+      "category": "Maroon"
+    }, {
+      "id": 15,
+      "name": "Neotropic cormorant",
+      "category": "Crimson"
+    }, {
+      "id": 16,
+      "name": "Ring-tailed possum",
+      "category": "Turquoise"
+    }, {
+      "id": 17,
+      "name": "Gull, swallow-tail",
+      "category": "Fuscia"
+    }, {
+      "id": 18,
+      "name": "Vulture, oriental white-backed",
+      "category": "Teal"
+    }, {
+      "id": 19,
+      "name": "Collared peccary",
+      "category": "Blue"
+    }, {
+      "id": 20,
+      "name": "Yellow-headed caracara",
+      "category": "Yellow"
+    }
+  ]
+}
